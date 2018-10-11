@@ -5,4 +5,5 @@ Enhanced example text.
 
 Before you commit.
 sdjsdjsjdalje
+Fixing bug.
 More enhanced example text.
