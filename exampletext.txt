@@ -3,5 +3,6 @@ Example text
 
 Enhanced example text.
 
-sdjsdjsjdaljd
-More enhanced xample text.
+Before you commit.
+sdjsdjsjdalje
+More enhanced example text.
