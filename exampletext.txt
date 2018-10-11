@@ -2,3 +2,6 @@ Example text
 .
 
 Enhanced example text.
+
+
+More enhanced example text.
